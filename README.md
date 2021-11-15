@@ -1,7 +1,7 @@
 Bayes-Classifier-for-weather
 ================================
 
-This is a simple machine learining algorythm using Bayes naive classifier for predicting weather for the Machine Learining I course. Although it can be used for any predition given that the final answer is YES or NO (11 or 12 in this case).
+This is a simple machine learining algorythm using Bayes naive classifier given a description of the weather today, decide whether to go play outdoor. Assignment for the Machine Learining I course. Although it can be used for any predition given that the final answer is YES or NO (11 or 12 in this case).
 
 Installing and running
 ----------------------
