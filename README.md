@@ -2,6 +2,7 @@ Bayes-Classifier-for-weather
 ================================
 
 This is a simple machine learining algorythm using Bayes naive classifier given a description of the weather today, decide whether to go play outdoor. Assignment for the Machine Learining I course. Although it can be used for any predition given that the final answer is YES or NO (11 or 12 in this case).
+It uses Laplace (additive) smoothing with the A parameter and vector of known number of levels for each attribiute.
 
 Installing and running
 ----------------------
